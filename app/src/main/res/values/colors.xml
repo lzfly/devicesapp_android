@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="plates_bg">#B2DFDB</color>
+    <color name="turquoise">#40E0D0</color><!--青绿色 -->
+
+    <color name="teal_500">#009688</color>
+    <color name="teal_50">#E0F2F1</color>
+    <color name="teal_100">#B2DFDB</color>
+    <color name="teal_200">#80CBC4</color>
+
+    <color name="turquoise_bg">#67bf95</color>
+    <color name="turquoise_dark_bg">#047b5f</color>
+    <color name="navigation_bar_bg">#1fbba6</color>
+
+    <color name="light_gray_white">#f3f3f3</color>
+    <color name="light_gray">#e3e4e5</color>
+    <color name="light_gray_10">#dcddde</color>
+    <color name="light_gray_20">#acadad</color>
+    <color name="extra_plates_bg">#1fbba6</color>
+    <color name="extra_plate_img_bg">#1ba18f</color>
+    <color name="main_turquoise_bg">#1fbba6</color>
+    <color name="main_dark_turquoise_bg">#1ba18f</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="mist_white">#f5f5f5</color>
+
+    <color name="black">#000000</color>
+    <color name="dark_gray">#9fa7b4</color>
+    <color name="dark_blue">#31647f</color>
+    <color name="light_blue">#55b1e2</color>
+
+    <color name="cyan_white">#f3ffcc</color>
+    <color name="cyan_10">#a4c739</color>
+    <color name="cyan">#86c440</color>
+
+    <color name="cyan_blue">#86d2c6</color>
+
+    <color name="blue_white">#ccf2ff</color>
+    <color name="blue_white_10">#78dbff</color>
+    <color name="blue_white_20">#33ccff</color>
+
+    <color name="red_0">#FF0000</color>
+    <color name="red">#ff4400</color>
+    <color name="red_10">#e53d00</color>
+
+    <color name="orange">#f37936</color>
+    <color name="orange_10">#e06f31</color>
+
+    <color name="stone_gray">#778899</color> <!-- 石板灰 -->
+    <color name="stone_gray_10">#708090</color> <!-- 石板灰 -->
+
+    <color name="light_gray_green">#E0EEEE</color>
+    <color name="light_gray_green_10">#B0E0E6</color>
+
+    <color name="half_transparent">#b0000000</color>
+</resources>
