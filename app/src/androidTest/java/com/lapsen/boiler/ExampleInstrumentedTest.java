@@ -1,4 +1,4 @@
-package com.lapsen.boiler;
+package com.luoie.deviceshouse;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

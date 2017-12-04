@@ -1,4 +1,4 @@
-package com.lapsen.boiler;
+package com.luoie.deviceshouse;
 
 import org.junit.Test;
 
