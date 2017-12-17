@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.lapsen.robot", appContext.getPackageName());
+        assertEquals("com.luoie.deviceshouse", appContext.getPackageName());
     }
 }
