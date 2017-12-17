@@ -279,6 +279,17 @@ public class DevicesFragment extends Fragment implements OnClickListener{
 					startActivityForResult(intent, GET_DEVICE_INFO_REQUEST);
 				}
 					break;
+				case DeviceType.DEVICE_TYPE_ROBOT1:
+				case DeviceType.DEVICE_TYPE_ROBOT2:
+				case DeviceType.DEVICE_TYPE_ROBOT3:
+				{
+					Intent intent = new Intent(getActivity(), DeviceRobotInfoActivity.class);
+					Bundle bundle = new Bundle();
+					bundle.putSerializable("com.luoie.deviceshouse.mode.Device", (Device) view.getTag());
+					intent.putExtras(bundle);
+					startActivityForResult(intent, GET_DEVICE_INFO_REQUEST);
+				}
+				break;
 				default: {
 					Intent intent = new Intent(getActivity(), DeviceBoilerAInfoActivity.class);
 					Bundle bundle = new Bundle();

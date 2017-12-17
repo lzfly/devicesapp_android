@@ -38,7 +38,8 @@
         <!-- <service android:name="com.lapsen.boiler.service.MqttService" />-->
 
         <activity android:name=".DeviceBoilerAInfoActivity" />
-        <activity android:name=".DeviceBoilerBInfoActivity"></activity>
+        <activity android:name=".DeviceBoilerBInfoActivity" />
+        <activity android:name=".DeviceRobotInfoActivity" ></activity>
     </application>
 
 </manifest>
